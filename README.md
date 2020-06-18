@@ -1,4 +1,4 @@
-# C-Sharp.net
+# First CS Program
 
 This is the first csharp program
 
