@@ -1,6 +1,6 @@
 # C-sharp Database Connectivity
 
-[**Oracle**](/Database/a)
+[**Oracle**](C-Sharp-Codes/Database/a)
 
 [**MySql**](/C-sharp Database/Mysql.cs)
 
