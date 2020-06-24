@@ -1,13 +1,7 @@
-# Test Repository
+# C-sharp Database Connectivity
 
-This is the first test repo.
+[**Oracle**](/Oracle.cs)
 
-**This is String**
+[**MySql**](/Mysql.cs)
 
-* 1st point
-* 2nd point
-
-> this is something tesxttsdasd.
-
-Here is my Python Code : [Click_here](/test.py)
-Here is my C Code : [Click_here](/code.c)
+[**MS Acess**](/macess.cs)
