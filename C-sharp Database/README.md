@@ -1,7 +1,10 @@
 # C-sharp Database Connectivity
 
-[**Oracle**](/Oracle.cs)
+[**Oracle**](/C-sharp Database
+/Oracle.cs)
 
-[**MySql**](/Mysql.cs)
+[**MySql**](/C-sharp Database
+/Mysql.cs)
 
-[**MS Acess**](/macess.cs)
+[**MS Acess**](/C-sharp Database
+/macess.cs)
