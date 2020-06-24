@@ -2,6 +2,6 @@
 
 [**Oracle**](C-Sharp-Codes/database/a)
 
-[**MySql**](/Mysql.cs)
+[**MySql**](/Database/Mysql.cs)
 
 [**MS Acess**](/C-sharp Database/macess.cs)
