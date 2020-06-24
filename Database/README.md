@@ -4,8 +4,8 @@ Directly Execute on Visual studio.
 For CS compiler 
 
 **1.**[**Oracle**](/Database/Oracle.cs) -
-compile     csc /r:Oracle.DataAcess.dll Oracle.cs  (Add reference of dll file)
-execute    ./oracle
+<br>compile     csc /r:Oracle.DataAcess.dll Oracle.cs  (Add reference of dll file)
+<br>execute    ./oracle
 
 
 **2.**[**MySql**](/Database/Mysql.cs)
