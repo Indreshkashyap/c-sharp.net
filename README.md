@@ -2,6 +2,6 @@
 
 This is the first csharp program
 
-**compile-    CSE hello.cs**
+**compile-    CSC hello.cs**
 
 **Execute-    ./hello.exe**
